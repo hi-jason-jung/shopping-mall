@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/hi-jason-jung/shopping-mall/issues"
   },
-  "homepage": "https://github.com/hi-jason-jung/shopping-mall#readme"
+  "homepage": "https://github.com/hi-jason-jung/shopping-mall#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
